@@ -13,7 +13,7 @@ fjhsldkfsldkjflskdfg
 
 
 ddfgdfgd
-![Image text](https://github.com/doalulema/borador1/blob/main/descarga.jpeg)
+![Image text](https://github.com/doalulema/borador1/blob/main/descarga%20(1).jpeg)
 gdfgdfgdfg
 
 sdasdadfsdrf
