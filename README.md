@@ -28,4 +28,8 @@ GODFOGKJHFG
 https://www.youtube.com/watch?v=fOCqD04GIC0
 
 
+.post p {
+	text-align:justify;
+}
+
 EFRSETWERT
